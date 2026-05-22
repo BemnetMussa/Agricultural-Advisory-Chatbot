@@ -100,7 +100,6 @@ Does your crop show: Dry and cracked soil around plant ? no.
 * Test soil nutrients and apply a balanced NPK fertilizer. Check for root-damaging pests.
 ```
 
----
 
 ## 6. How to Run the Project
 
@@ -116,6 +115,3 @@ Does your crop show: Dry and cracked soil around plant ? no.
 4. Answer each symptom question with `yes.` or `no.` (include the dot — it's required in Prolog)
 5. The system will automatically print the diagnosis and treatment advice at the end.
 
----
-
-*Project for AI Course | Up to 4 group members allowed*
